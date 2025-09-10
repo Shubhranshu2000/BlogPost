@@ -1,0 +1,9 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.csproj.user
+.vs/
+appsettings.*.local.json
+secrets.json
